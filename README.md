@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-🔭 I’m currently working on my Timetable Software project, with involvement in the LSTM Frontend with Equal Experts
+🔭 I’m currently working with Equal Experts on their internal projects, so I'm not doing personal projects at the moment!
 
 📫 How to reach me: See my Discord @gaminpanda (old: @GAMINpanda#9546)
 
